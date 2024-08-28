@@ -11,14 +11,18 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 - **WEB Development**: .NET & NET CORE WEB APP with JQuery and Bootstrap
 - **Databases**: Microsoft SQL Server, SQLite, PostgreSQL, MongoDB
 - **Caching**: Redis
-- **Message Broker**: Apache Kafka, RabbitMq with MassTransit
+- **Message Brokers**: Apache Kafka, RabbitMq with MassTransit
 - **Authentication/Authorization**: JWT, Basic Auth
 - **Validation**: FluentValidation
 - **Mapping**: Mapster, AutoMapper
-- **Minimal API**: Carter
-- **Pattern**: SOLID, YAGNI, KISS, Repository Pattern, Decorator Pattern, Cache - Aside Pattern ,CQRS Pattern, Mediator Pattern, DI in ASP.NET Core, Minimal APIs and Routing in ASP.NET, Proxy Pattern, Strongly Typed IDs Pattern etc.
-- **Architecture**: Vertical Slice, Domain Driven Design, Microservice, N-Layer Architecture etc.
+- **Minimal APIs**: Carter
+- **Patterns**: SOLID, YAGNI, KISS, Repository Pattern, Decorator Pattern, Cache - Aside Pattern ,CQRS Pattern, Mediator Pattern, DI in ASP.NET Core, Minimal APIs and Routing in ASP.NET, Proxy Pattern, Strongly Typed IDs Pattern etc.
+- **Architectures**: Vertical Slice, Domain Driven Design, Microservice, N-Layer Architecture etc.
 - **Other Nuget Packages that I use**: Scrutor, AspNetCore.HealthChecks.UI.Client
+- **Soft Skills**: Communication, Team Collaboration, Problem-Solving
+- **Methodologies**: Agile, Scrum, Waterfall
+- **Object Relational Mappers (ORMs)**: Entity Framework, Entity Framework Core, Dapper
+- **Performance Optimization**: Analyzing Queries with SQL Profiler and Database Engine Tuning Advisor, Load Testing
 
 ### Frontend Development
 
