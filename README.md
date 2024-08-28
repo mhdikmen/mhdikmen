@@ -9,7 +9,7 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 ### Backend Development
 - **Languages**: C#
 - **API Development**: .NET & NET CORE RESTful Services, .NET & NET CORE Web API, gRPC
-- **WEB Development**: .NET & NET CORE WEB APP
+- **WEB Development**: .NET & NET CORE WEB APP with JQuery and Bootstrap
 - **Databases**: Microsoft SQL Server, SQLite, PostgreSQL, MongoDB
 - **Caching**: Redis
 - **Message Broker**: Apache Kafka, RabbitMq with MassTransit 
