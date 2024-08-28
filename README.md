@@ -23,8 +23,7 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 ### Frontend Development
 
 - **Languages**: HTML5, CSS3, JavaScript
-- **Frameworks**: React,
-- **Libraries**: Bootstrap, jQuery
+- **Libraries**: Bootstrap, jQuery, React
 - **Tools**: Visual Studio Code
 
 ### DevOps & Tools
@@ -37,13 +36,21 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 
 ## 📈 GitHub Stats
 
-![GitHub Metrics](https://github.com/mhdikmen/mhdikmen/blob/master/github-metrics.svg)
+<p align="center">
+  <img src="https://github.com/mhdikmen/mhdikmen/blob/master/github-metrics.svg" alt="GitHub Metrics">
+</p>
 
-![mhdikmen's Stats](https://github-readme-stats.vercel.app/api?username=mhdikmen&theme=default&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdikmen&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mhdikmen's Top Languages">
+</p>
 
-![mhdikmen's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhdikmen&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdikmen&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mhdikmen's Stats">
+</p>
 
-![mhdikmen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhdikmen&theme=default&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdikmen&theme=default&hide_border=true" alt="mhdikmen's Streak">
+</p>
 
 ## 📫 Get in Touch
 
