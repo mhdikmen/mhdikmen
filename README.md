@@ -31,7 +31,7 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 - **Version Control**: Git, GitHub, GitLab, Bitbucket
 - **CI/CD**: Jenkins , Octopus, Teamcity, Sonarqube
 - **Containerization**: Docker
-- **Testing**: xUnit, NUnit, Selenium, Postman , SoapUI
+- **Testing**: Postman , SoapUI
 - **Other**: Confluence (for documentation and collaboration) , AppDynamics (Application Performance Management)
 
 
