@@ -12,7 +12,7 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 - **WEB Development**: .NET & NET CORE WEB APP
 - **Databases**: Microsoft SQL Server, SQLite, PostgreSQL, MongoDB
 - **Caching**: Redis
-- **Message Broker**: Apache Kafka, RabbitMq, MassTransit 
+- **Message Broker**: Apache Kafka, RabbitMq with MassTransit 
 - **Authentication/Authorization**: JWT, Basic Auth
 - **Validation**: FluentValidation
 - **Mapping**: Mapster, AutoMapper
