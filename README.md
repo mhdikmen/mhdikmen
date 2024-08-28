@@ -1,6 +1,6 @@
 # 💻 Muhammed Hanifi Dikmen's Portfolio
 
-Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with experience in building web applications using a variety of modern technologies. Below you'll find an overview of my skills, projects, and how to get in touch with me.
+Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with experience in building web applications using a variety of modern technologies. Below you'll find an overview of my skills, and how to get in touch with me.
 
 ## 🛠️ Skills
 
