@@ -36,6 +36,7 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 
 
 ## 📈 GitHub Stats
+![GitHub Metrics](https://raw.githubusercontent.com/mhdikmen/mhdikmen/main/github-metrics.svg)
 
 ![mhdikmen's Stats](https://github-readme-stats.vercel.app/api?username=mhdikmen&theme=default&show_icons=true&hide_border=true&count_private=true)
 
