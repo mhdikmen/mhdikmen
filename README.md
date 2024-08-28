@@ -41,15 +41,15 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdikmen&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mhdikmen's Top Languages" style="width: 100%; max-width: 100%;" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdikmen&theme=default&show_icons=true&hide_border=true&layout=compact" alt="mhdikmen's Top Languages" style="width: 50%; max-width: 50%;" >
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdikmen&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mhdikmen's Stats" style="width: 100%; max-width: 100%;" >
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdikmen&theme=default&show_icons=true&hide_border=true&count_private=true" alt="mhdikmen's Stats" style="width: 50%; max-width: 50%;" >
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdikmen&theme=default&hide_border=true" alt="mhdikmen's Streak" style="width: 100%; max-width: 100%;" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdikmen&theme=default&hide_border=true" alt="mhdikmen's Streak" style="width: 50%; max-width: 50%;" >
 </p>
 
 ## 📫 Get in Touch
