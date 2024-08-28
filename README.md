@@ -44,9 +44,9 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 
 ## 📫 Get in Touch
 
-- **Email**: [your.email@example.com](mailto:muhadikmen@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/muhadikmen)
-- **Portfolio**: [Your Portfolio Website](https://www.mhdikmen.com)
+- **Email**: [muhadikmen@gmail.com](mailto:muhadikmen@gmail.com)
+- **LinkedIn**: [Muhammed Hanifi Dikmen](https://www.linkedin.com/in/muhadikmen)
+- **Portfolio**: [https://www.mhdikmen.com](https://www.mhdikmen.com)
 
 ## 🎓 Education
 
