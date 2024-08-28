@@ -4,15 +4,14 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 
 ## 🛠️ Skills
 
-
-
 ### Backend Development
+
 - **Languages**: C#
 - **API Development**: .NET & NET CORE RESTful Services, .NET & NET CORE Web API, gRPC
 - **WEB Development**: .NET & NET CORE WEB APP with JQuery and Bootstrap
 - **Databases**: Microsoft SQL Server, SQLite, PostgreSQL, MongoDB
 - **Caching**: Redis
-- **Message Broker**: Apache Kafka, RabbitMq with MassTransit 
+- **Message Broker**: Apache Kafka, RabbitMq with MassTransit
 - **Authentication/Authorization**: JWT, Basic Auth
 - **Validation**: FluentValidation
 - **Mapping**: Mapster, AutoMapper
@@ -22,21 +21,23 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 - **Other Nuget Packages that I use**: Scrutor, AspNetCore.HealthChecks.UI.Client
 
 ### Frontend Development
+
 - **Languages**: HTML5, CSS3, JavaScript
 - **Frameworks**: React,
 - **Libraries**: Bootstrap, jQuery
 - **Tools**: Visual Studio Code
 
 ### DevOps & Tools
+
 - **Version Control**: Git, GitHub, GitLab, Bitbucket
 - **CI/CD**: Jenkins , Octopus, Teamcity, Sonarqube
 - **Containerization**: Docker
 - **Testing**: Postman , SoapUI
 - **Other**: Confluence (for documentation and collaboration) , AppDynamics (Application Performance Management)
 
-
 ## 📈 GitHub Stats
-![GitHub Metrics](https://raw.githubusercontent.com/mhdikmen/mhdikmen/main/github-metrics.svg)
+
+![GitHub Metrics](https://github.com/mhdikmen/mhdikmen/blob/master/github-metrics.svg)
 
 ![mhdikmen's Stats](https://github-readme-stats.vercel.app/api?username=mhdikmen&theme=default&show_icons=true&hide_border=true&count_private=true)
 
@@ -55,13 +56,10 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 - **Bachelor’s**: Mathematics and Computer Science from Eskişehir Osmangazi University
 - **Associate Of Science**: Computer Programming from İstanbul Nişantaşı University
 
-- **Certifications**: 
+- **Certifications**:
   - Community College Initiative Program - U.S. Department of State
   - Certificate of Achivement - Community College Consortium
 
 ## 🚀 Interests
 
 In my free time, I enjoy contributing to open-source projects, exploring new technologies, and writing technical articles.
-
-
-
