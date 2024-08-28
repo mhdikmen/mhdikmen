@@ -19,6 +19,7 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 - **Minimal API**: Carter
 - **Pattern**: SOLID, YAGNI, KISS, Repository Pattern, Decorator Pattern, Cache - Aside Pattern ,CQRS Pattern, Mediator Pattern, DI in ASP.NET Core, Minimal APIs and Routing in ASP.NET, Proxy Pattern, Strongly Typed IDs Pattern etc.
 - **Architecture**: Vertical Slice, Domain Driven Design, Microservice, N-Layer Architecture etc.
+- **Other Nuget Packages that I use**: Scrutor, AspNetCore.HealthChecks.UI.Client
 
 ### Frontend Development
 - **Languages**: HTML5, CSS3, JavaScript
