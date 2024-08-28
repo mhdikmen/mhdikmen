@@ -28,10 +28,11 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 - **Tools**: Visual Studio Code
 
 ### DevOps & Tools
-- **Version Control**: Git, GitHub, GitLab
-- **CI/CD**: Jenkins , Octopus
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
+- **CI/CD**: Jenkins , Octopus, Teamcity, Sonarqube
 - **Containerization**: Docker
 - **Testing**: xUnit, NUnit, Selenium, Postman , SoapUI
+- **Other**: Confluence (for documentation and collaboration) , AppDynamics (Application Performance Management)
 
 
 ## 📈 GitHub Stats
