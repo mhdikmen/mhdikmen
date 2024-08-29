@@ -7,7 +7,7 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 ### Backend Development
 
 - **Languages**: C#
-- **API Development**: .NET & NET CORE RESTful Services, .NET & NET CORE Web API, gRPC
+- **API Development**: .NET & NET CORE Web API for RESTful Services, .NET CORE gRPC
 - **WEB Development**: .NET & NET CORE WEB APP with JQuery and Bootstrap
 - **Databases**: Microsoft SQL Server, SQLite, PostgreSQL, MongoDB
 - **Caching**: Redis
