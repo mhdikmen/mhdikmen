@@ -20,7 +20,7 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 - **Architectures**: Vertical Slice, Domain Driven Design, Microservice, N-Layer Architecture, Clean Architecture, Onion Architecture etc.
 - **Object Relational Mappers (ORMs)**: Entity Framework, Entity Framework Core, Dapper
 - **Performance Optimization**: Analyzing Queries with SQL Profiler and Database Engine Tuning Advisor, Load Testing
-- **Other Nuget Packages that I use**: Scrutor, AspNetCore.HealthChecks.UI.Client
+- **Other Nuget Packages that I use**: Scrutor, AspNetCore.HealthChecks.UI.Client, Marten
 
 ### Frontend Development
 
