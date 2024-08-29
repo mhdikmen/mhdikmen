@@ -1,6 +1,6 @@
 # 💻 Muhammed Hanifi Dikmen's Portfolio
 
-Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with experience in building web applications using a variety of modern technologies. Below you'll find an overview of my skills, and how to get in touch with me.
+Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with experience in building web applications using a variety of modern technologies. Professionally, I have been working in software industry since 2019. Below you'll find an overview of my skills, and how to get in touch with me.
 
 ## 🛠️ Skills
 
@@ -18,11 +18,9 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 - **Minimal APIs**: Carter
 - **Patterns**: SOLID, YAGNI, KISS, Repository Pattern, Decorator Pattern, Cache - Aside Pattern ,CQRS Pattern, Mediator Pattern, DI in ASP.NET Core, Minimal APIs and Routing in ASP.NET, Proxy Pattern, Strongly Typed IDs Pattern etc.
 - **Architectures**: Vertical Slice, Domain Driven Design, Microservice, N-Layer Architecture etc.
-- **Other Nuget Packages that I use**: Scrutor, AspNetCore.HealthChecks.UI.Client
-- **Soft Skills**: Communication, Team Collaboration, Problem-Solving
-- **Methodologies**: Agile, Scrum, Waterfall
 - **Object Relational Mappers (ORMs)**: Entity Framework, Entity Framework Core, Dapper
 - **Performance Optimization**: Analyzing Queries with SQL Profiler and Database Engine Tuning Advisor, Load Testing
+- **Other Nuget Packages that I use**: Scrutor, AspNetCore.HealthChecks.UI.Client
 
 ### Frontend Development
 
@@ -36,7 +34,9 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 - **CI/CD**: Jenkins , Octopus, Teamcity, Sonarqube
 - **Containerization**: Docker
 - **Testing**: Postman , SoapUI
-- **Other**: Confluence (for documentation and collaboration) , AppDynamics (Application Performance Management)
+- **Other**: Confluence (for documentation and collaboration) , AppDynamics (Application Performance Management), Kanban Board, Jira
+- **Methodologies**: Agile, Scrum, Waterfall
+- **Soft Skills**: Communication, Team Collaboration, Problem-Solving
 
 ## 📈 GitHub Stats
 
