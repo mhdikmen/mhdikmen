@@ -17,7 +17,7 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 - **Mapping**: Mapster, AutoMapper
 - **Minimal APIs**: Carter
 - **Patterns**: SOLID, YAGNI, KISS, Repository Pattern, Decorator Pattern, Cache - Aside Pattern ,CQRS Pattern, Mediator Pattern, DI in ASP.NET Core, Minimal APIs and Routing in ASP.NET, Proxy Pattern, Strongly Typed IDs Pattern etc.
-- **Architectures**: Vertical Slice, Domain Driven Design, Microservice, N-Layer Architecture etc.
+- **Architectures**: Vertical Slice, Domain Driven Design, Microservice, N-Layer Architecture, Clean Architecture, Onion Architecture etc.
 - **Object Relational Mappers (ORMs)**: Entity Framework, Entity Framework Core, Dapper
 - **Performance Optimization**: Analyzing Queries with SQL Profiler and Database Engine Tuning Advisor, Load Testing
 - **Other Nuget Packages that I use**: Scrutor, AspNetCore.HealthChecks.UI.Client
