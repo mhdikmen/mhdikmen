@@ -60,7 +60,6 @@ Welcome to my GitHub repository! I'm a passionate .NET Full Stack Developer with
 
 - **Email**: [muhadikmen@gmail.com](mailto:muhadikmen@gmail.com)
 - **LinkedIn**: [Muhammed Hanifi Dikmen](https://www.linkedin.com/in/muhadikmen)
-- **Portfolio**: [https://www.mhdikmen.com](https://www.mhdikmen.com)
 
 ## 🎓 Education
 
